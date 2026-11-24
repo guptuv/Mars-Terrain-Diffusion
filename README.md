@@ -15,7 +15,7 @@ pairwise metrics only, no downstream test) and fixes its main weaknesses.
 | 2 | Baseline classifier (real data only) | done |
 | 3 | LoRA fine-tuning of Stable Diffusion 1.5 | done |
 | 4 | Generation + classifier filtering | done |
-| 5 | Set-level evaluation: FID, KID, precision/recall, Vendi | to do |
+| 5 | Set-level evaluation: FID, KID, precision/recall, Vendi | done |
 | 6 | Downstream test: real vs real + synthetic | to do |
 | 7 | Optional extensions | to do |
 
@@ -45,4 +45,4 @@ Library versions are pinned in the install cell and recorded in configs/phase0_e
 ## Data credit
 DoMars16k: Wilhelm et al., 2020; distributed via Mars-Bench (Purohit et al., 2025), CC-BY-4.0.
 
-_Last synced: 2026-11-24 23:37_
+_Last synced: 2026-11-24 23:47_

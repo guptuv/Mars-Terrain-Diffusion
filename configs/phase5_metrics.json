@@ -1,0 +1,28 @@
+{
+  "phase": 5,
+  "reference_set": "geo test, target classes",
+  "feature_nets": [
+    "inception-v3 (torchmetrics FID)",
+    "vit_small_patch14_dinov2.lvd142m",
+    "open_clip ViT-B-32 laion2b_s34b_b79k"
+  ],
+  "pr_k": 3,
+  "kid_subsets": 50,
+  "kid_subset_size": "<=100",
+  "image_size": 200,
+  "run_name": "phase5_metrics",
+  "timestamp": "2026-11-24T23:47:01",
+  "gpu": "Tesla T4",
+  "python": "3.13.16",
+  "versions": {
+    "torch": "2.14.1+cu130",
+    "torchvision": "0.29.1+cu130",
+    "diffusers": "0.43.0",
+    "peft": "0.22.0",
+    "accelerate": "1.16.0",
+    "transformers": "5.24.1",
+    "timm": "1.0.31",
+    "torchmetrics": "1.9.0",
+    "open_clip_torch": "4.2.2"
+  }
+}
