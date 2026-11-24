@@ -1,0 +1,91 @@
+{
+  "mapping": {
+    "craters": {
+      "codes": [
+        "cra"
+      ],
+      "quality": "direct",
+      "note": "Crater. (sfx = Crater Field, many small craters, is kept as its own class.)"
+    },
+    "cliffs": {
+      "codes": [
+        "cli"
+      ],
+      "quality": "direct",
+      "note": "Cliff."
+    },
+    "ridges": {
+      "codes": [
+        "rid"
+      ],
+      "quality": "direct",
+      "note": "Ridge."
+    },
+    "sand dunes": {
+      "codes": [
+        "ael",
+        "aec"
+      ],
+      "quality": "direct",
+      "note": "Aeolian Straight + Aeolian Curved = wind-formed dunes and ripples."
+    },
+    "rock fields": {
+      "codes": [
+        "rou"
+      ],
+      "quality": "approximate",
+      "note": "Rough Terrain is the closest; at CTX resolution single boulders are not visible."
+    },
+    "volcanic plains": {
+      "codes": [
+        "smo"
+      ],
+      "quality": "approximate",
+      "note": "Smooth Terrain only. Not labelled as volcanic - smooth plains can also be sedimentary or dusty."
+    },
+    "subsurface cavities": {
+      "codes": [],
+      "quality": "none",
+      "note": "No pit / skylight / lava-tube class in DoMars16k."
+    },
+    "layered sedimentary deposits": {
+      "codes": [],
+      "quality": "none",
+      "note": "No layered-deposit class in DoMars16k."
+    }
+  },
+  "id2code": {
+    "0": "ael",
+    "1": "rou",
+    "2": "cli",
+    "3": "aec",
+    "4": "tex",
+    "5": "smo",
+    "6": "fss",
+    "7": "rid",
+    "8": "fse",
+    "9": "sfe",
+    "10": "fsf",
+    "11": "fsg",
+    "12": "sfx",
+    "13": "cra",
+    "14": "mix"
+  },
+  "id2name": {
+    "0": "Aeolian Straight",
+    "1": "Rough Terrain",
+    "2": "Cliff",
+    "3": "Aeolian Curved",
+    "4": "Textured Terrain",
+    "5": "Smooth Terrain",
+    "6": "Mass Wasting",
+    "7": "Ridge",
+    "8": "Slope Streaks",
+    "9": "Mounds",
+    "10": "Channel",
+    "11": "Gullies",
+    "12": "Crater Field",
+    "13": "Crater",
+    "14": "Mixed Terrain"
+  }
+}

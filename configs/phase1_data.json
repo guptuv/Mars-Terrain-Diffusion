@@ -1,0 +1,44 @@
+{
+  "phase": 1,
+  "dataset": "Mirali33/mb-domars16k",
+  "dataset_commit": "4d79cf7a0fc98fab76d436f6434e4ce3eb78cd85",
+  "seed": 42,
+  "n_test_locked": 1614,
+  "leakage": {
+    "ctx_products_train": 163,
+    "ctx_products_test": 148,
+    "test_products_also_in_train": 148,
+    "fraction_test_tiles_from_train_products": 1.0
+  },
+  "geo_split": {
+    "file": "/content/drive/MyDrive/mars_data_engine/data/splits/geo_split.csv",
+    "test_ids_sha256": "58fb4b7351c8184ed2f5cc1f394f8dbf8899e52427b074edf492a8b4e2564a7e",
+    "n_test": 2516,
+    "n_ctx_images": {
+      "train": 115,
+      "val": 21,
+      "test": 27
+    },
+    "split_search": {
+      "search_seeds": 150,
+      "best_seed": 123,
+      "balance_score": 2.011
+    },
+    "rule": "Main test set. Do not train, tune, or pick models on it until Phase 6."
+  },
+  "run_name": "phase1_data",
+  "timestamp": "2026-11-24T21:36:45",
+  "gpu": "Tesla T4",
+  "python": "3.13.16",
+  "versions": {
+    "torch": "2.14.1+cu130",
+    "torchvision": "0.29.1+cu130",
+    "diffusers": "0.43.0",
+    "peft": "0.22.0",
+    "accelerate": "1.16.0",
+    "transformers": "5.24.1",
+    "timm": "1.0.31",
+    "torchmetrics": "1.9.0",
+    "open_clip_torch": "4.2.2"
+  }
+}

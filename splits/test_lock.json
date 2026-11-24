@@ -1,0 +1,28 @@
+{
+  "test_file": "/content/drive/MyDrive/mars_data_engine/data/raw/mb-domars16k/data/test-00000-of-00001.parquet",
+  "sha256": "64b22aeb20b2b36c37fcb103d99705a205de1438a2d71f797094109917b86e8a",
+  "n_images": 1614,
+  "rule": "Do not train, tune, or pick models on this file until Phase 6.",
+  "leakage_check": {
+    "ctx_products_train": 163,
+    "ctx_products_test": 148,
+    "test_products_also_in_train": 148,
+    "fraction_test_tiles_from_train_products": 1.0
+  },
+  "geo_split": {
+    "file": "/content/drive/MyDrive/mars_data_engine/data/splits/geo_split.csv",
+    "test_ids_sha256": "58fb4b7351c8184ed2f5cc1f394f8dbf8899e52427b074edf492a8b4e2564a7e",
+    "n_test": 2516,
+    "n_ctx_images": {
+      "train": 115,
+      "val": 21,
+      "test": 27
+    },
+    "split_search": {
+      "search_seeds": 150,
+      "best_seed": 123,
+      "balance_score": 2.011
+    },
+    "rule": "Main test set. Do not train, tune, or pick models on it until Phase 6."
+  }
+}

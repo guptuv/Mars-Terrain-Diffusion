@@ -1,0 +1,17 @@
+,train,val,test,total
+ael - Aeolian Straight,711,203,102,1016
+rou - Rough Terrain,705,201,101,1007
+cli - Cliff,700,200,100,1000
+aec - Aeolian Curved,741,211,106,1058
+tex - Textured Terrain,732,209,105,1046
+smo - Smooth Terrain,811,232,116,1159
+fss - Mass Wasting,752,215,107,1074
+rid - Ridge,713,203,102,1018
+fse - Slope Streaks,751,215,107,1073
+sfe - Mounds,704,201,100,1005
+fsf - Channel,820,235,117,1172
+fsg - Gullies,701,201,100,1002
+sfx - Crater Field,939,269,134,1342
+cra - Crater,815,233,116,1164
+mix - Mixed Terrain,710,203,101,1014
+ALL CLASSES,11305,3231,1614,16150
