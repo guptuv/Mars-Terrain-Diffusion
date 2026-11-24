@@ -1,0 +1,36 @@
+{
+  "arch": "convnext_tiny.fb_in22k_ft_in1k",
+  "steps": 1200,
+  "bs": 64,
+  "lr": 0.0002,
+  "wd": 0.05,
+  "warmup": 100,
+  "eval_every": 150,
+  "label_smoothing": 0.1,
+  "img": 200,
+  "input": 224,
+  "seed": 42,
+  "augment": "h/v flips, random crop 75-100%, brightness/contrast jitter",
+  "selection": "best geo-val macro-F1",
+  "phase": 2,
+  "val": {
+    "acc": 0.8117732558139535,
+    "macro_f1": 0.8036730962913254
+  },
+  "best_step": 1050,
+  "run_name": "phase2_baseline",
+  "timestamp": "2026-11-24T22:01:48",
+  "gpu": "Tesla T4",
+  "python": "3.13.16",
+  "versions": {
+    "torch": "2.14.1+cu130",
+    "torchvision": "0.29.1+cu130",
+    "diffusers": "0.43.0",
+    "peft": "0.22.0",
+    "accelerate": "1.16.0",
+    "transformers": "5.24.1",
+    "timm": "1.0.31",
+    "torchmetrics": "1.9.0",
+    "open_clip_torch": "4.2.2"
+  }
+}
