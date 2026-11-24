@@ -1,0 +1,60 @@
+{
+  "sampler": "DPMSolverMultistep",
+  "steps": 25,
+  "guidance_values": [
+    5.0,
+    6.0,
+    7.0
+  ],
+  "batch": 4,
+  "n_per_code": {
+    "cra": 150,
+    "cli": 150,
+    "rid": 150,
+    "ael": 75,
+    "aec": 75,
+    "rou": 150,
+    "smo": 150
+  },
+  "resolution": 512,
+  "lora": "/content/drive/MyDrive/mars_data_engine/checkpoints/lora/final",
+  "seed_rule": "seed = 100000 * class_id + image_index",
+  "templates": [
+    "CTX orbital image of Mars, <class>, <detail>, grayscale",
+    "CTX orbital image of Mars showing <detail>, grayscale",
+    "grayscale CTX orbital image of the Martian surface, <class>"
+  ],
+  "filter": {
+    "classifier": "/content/drive/MyDrive/mars_data_engine/checkpoints/classifier/baseline_convnext_tiny_seed42.pt",
+    "rule": "pred == intended and confidence >= THRESH",
+    "threshold": 0.6
+  },
+  "phase": 4,
+  "n_generated": 900,
+  "n_kept": 258,
+  "keep_rate_by_guidance": {
+    "5.0": 0.287,
+    "6.0": 0.288,
+    "7.0": 0.285
+  },
+  "keep_rate_by_prompt": {
+    "0": 0.366,
+    "1": 0.359,
+    "2": 0.125
+  },
+  "run_name": "phase4_generation",
+  "timestamp": "2026-11-24T23:37:01",
+  "gpu": "Tesla T4",
+  "python": "3.13.16",
+  "versions": {
+    "torch": "2.14.1+cu130",
+    "torchvision": "0.29.1+cu130",
+    "diffusers": "0.43.0",
+    "peft": "0.22.0",
+    "accelerate": "1.16.0",
+    "transformers": "5.24.1",
+    "timm": "1.0.31",
+    "torchmetrics": "1.9.0",
+    "open_clip_torch": "4.2.2"
+  }
+}

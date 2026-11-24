@@ -1,0 +1,901 @@
+file,code,label,prompt_id,prompt,seed,guidance,pred,pred_code,conf_intended,kept
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0000.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300000,5.0,13,cra,0.9213,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0001.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300001,5.0,13,cra,0.8796,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0002.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300002,5.0,13,cra,0.9013,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0003.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300003,5.0,13,cra,0.9327,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0004.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300004,5.0,13,cra,0.9324,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0005.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300005,5.0,13,cra,0.9289,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0006.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300006,5.0,13,cra,0.9336,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0007.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300007,5.0,13,cra,0.9362,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0008.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300008,5.0,12,sfx,0.0047,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0009.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300009,5.0,9,sfe,0.0088,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0010.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300010,5.0,5,smo,0.0042,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0011.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300011,5.0,5,smo,0.0073,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0012.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300012,6.0,13,cra,0.9477,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0013.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300013,6.0,13,cra,0.9227,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0014.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300014,6.0,13,cra,0.9387,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0015.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300015,6.0,13,cra,0.9329,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0016.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300016,6.0,13,cra,0.9367,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0017.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300017,6.0,13,cra,0.9115,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0018.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300018,6.0,13,cra,0.9396,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0019.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300019,6.0,13,cra,0.9192,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0020.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300020,6.0,12,sfx,0.0056,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0021.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300021,6.0,12,sfx,0.0037,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0022.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300022,6.0,12,sfx,0.0234,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0023.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300023,6.0,10,fsf,0.0387,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0024.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300024,7.0,12,sfx,0.0379,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0025.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300025,7.0,13,cra,0.9297,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0026.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300026,7.0,13,cra,0.9211,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0027.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300027,7.0,13,cra,0.9224,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0028.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300028,7.0,13,cra,0.927,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0029.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300029,7.0,13,cra,0.9254,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0030.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300030,7.0,13,cra,0.9197,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0031.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300031,7.0,13,cra,0.9216,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0032.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300032,7.0,9,sfe,0.0057,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0033.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300033,7.0,12,sfx,0.0186,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0034.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300034,7.0,13,cra,0.9491,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0035.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300035,7.0,13,cra,0.9104,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0036.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300036,5.0,13,cra,0.9268,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0037.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300037,5.0,13,cra,0.9142,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0038.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300038,5.0,13,cra,0.9179,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0039.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300039,5.0,13,cra,0.9397,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0040.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300040,5.0,13,cra,0.9216,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0041.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300041,5.0,13,cra,0.9265,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0042.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300042,5.0,13,cra,0.916,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0043.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300043,5.0,13,cra,0.9233,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0044.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300044,5.0,12,sfx,0.013,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0045.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300045,5.0,9,sfe,0.0057,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0046.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300046,5.0,9,sfe,0.0052,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0047.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300047,5.0,5,smo,0.0036,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0048.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300048,6.0,13,cra,0.9218,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0049.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300049,6.0,13,cra,0.935,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0050.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300050,6.0,13,cra,0.9301,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0051.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300051,6.0,13,cra,0.9308,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0052.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300052,6.0,13,cra,0.9181,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0053.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300053,6.0,13,cra,0.9257,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0054.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300054,6.0,13,cra,0.9249,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0055.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300055,6.0,13,cra,0.922,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0056.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300056,6.0,13,cra,0.9264,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0057.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300057,6.0,9,sfe,0.0056,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0058.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300058,6.0,13,cra,0.8191,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0059.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300059,6.0,9,sfe,0.003,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0060.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300060,7.0,13,cra,0.9372,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0061.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300061,7.0,13,cra,0.9283,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0062.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300062,7.0,13,cra,0.9257,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0063.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300063,7.0,13,cra,0.9282,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0064.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300064,7.0,13,cra,0.9376,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0065.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300065,7.0,13,cra,0.9363,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0066.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300066,7.0,13,cra,0.9356,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0067.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300067,7.0,13,cra,0.93,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0068.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300068,7.0,13,cra,0.9279,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0069.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300069,7.0,13,cra,0.9371,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0070.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300070,7.0,13,cra,0.9197,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0071.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300071,7.0,9,sfe,0.0125,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0072.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300072,5.0,13,cra,0.92,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0073.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300073,5.0,13,cra,0.9345,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0074.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300074,5.0,13,cra,0.9164,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0075.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300075,5.0,13,cra,0.9314,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0076.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300076,5.0,13,cra,0.9278,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0077.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300077,5.0,13,cra,0.9222,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0078.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300078,5.0,13,cra,0.9277,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0079.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300079,5.0,13,cra,0.9314,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0080.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300080,5.0,13,cra,0.9257,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0081.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300081,5.0,12,sfx,0.0088,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0082.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300082,5.0,5,smo,0.0097,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0083.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300083,5.0,9,sfe,0.0049,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0084.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300084,6.0,13,cra,0.9291,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0085.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300085,6.0,13,cra,0.9205,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0086.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300086,6.0,13,cra,0.9303,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0087.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300087,6.0,13,cra,0.9253,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0088.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300088,6.0,13,cra,0.9252,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0089.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300089,6.0,13,cra,0.9412,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0090.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300090,6.0,13,cra,0.9203,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0091.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300091,6.0,13,cra,0.9299,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0092.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300092,6.0,13,cra,0.9355,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0093.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300093,6.0,13,cra,0.9303,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0094.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300094,6.0,13,cra,0.9409,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0095.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300095,6.0,5,smo,0.0986,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0096.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300096,7.0,13,cra,0.9252,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0097.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300097,7.0,13,cra,0.9271,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0098.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300098,7.0,13,cra,0.921,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0099.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300099,7.0,13,cra,0.9279,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0100.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300100,7.0,13,cra,0.9325,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0101.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300101,7.0,13,cra,0.9273,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0102.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300102,7.0,13,cra,0.8961,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0103.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300103,7.0,13,cra,0.9328,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0104.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300104,7.0,12,sfx,0.0048,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0105.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300105,7.0,9,sfe,0.0099,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0106.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300106,7.0,12,sfx,0.0175,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0107.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300107,7.0,13,cra,0.9257,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0108.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300108,5.0,13,cra,0.92,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0109.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300109,5.0,13,cra,0.9254,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0110.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300110,5.0,13,cra,0.9395,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0111.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300111,5.0,13,cra,0.3787,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0112.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300112,5.0,13,cra,0.9414,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0113.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300113,5.0,13,cra,0.922,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0114.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300114,5.0,13,cra,0.6057,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0115.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300115,5.0,13,cra,0.9341,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0116.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300116,5.0,12,sfx,0.0024,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0117.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300117,5.0,13,cra,0.9273,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0118.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300118,5.0,13,cra,0.9299,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0119.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300119,5.0,5,smo,0.0073,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0120.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300120,6.0,13,cra,0.9346,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0121.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300121,6.0,13,cra,0.9177,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0122.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300122,6.0,13,cra,0.9225,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0123.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300123,6.0,13,cra,0.9376,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0124.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300124,6.0,13,cra,0.9357,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0125.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300125,6.0,13,cra,0.9227,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0126.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300126,6.0,13,cra,0.9176,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0127.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300127,6.0,13,cra,0.9274,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0128.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300128,6.0,12,sfx,0.1324,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0129.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300129,6.0,9,sfe,0.0408,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0130.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300130,6.0,12,sfx,0.0603,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0131.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300131,6.0,2,cli,0.0073,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0132.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300132,7.0,13,cra,0.9499,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0133.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300133,7.0,13,cra,0.9438,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0134.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300134,7.0,13,cra,0.933,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0135.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300135,7.0,13,cra,0.9246,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0136.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300136,7.0,13,cra,0.9149,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0137.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300137,7.0,13,cra,0.921,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0138.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300138,7.0,13,cra,0.9386,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0139.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300139,7.0,13,cra,0.9152,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0140.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300140,7.0,13,cra,0.9302,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0141.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300141,7.0,5,smo,0.0057,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0142.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300142,7.0,13,cra,0.9269,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0143.png,cra,13,2,"grayscale CTX orbital image of the Martian surface, crater",1300143,7.0,5,smo,0.0052,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0144.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300144,5.0,13,cra,0.9362,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0145.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300145,5.0,13,cra,0.9299,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0146.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300146,5.0,13,cra,0.9329,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0147.png,cra,13,0,"CTX orbital image of Mars, crater, a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300147,5.0,13,cra,0.9366,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0148.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300148,5.0,13,cra,0.9372,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cra/cra_0149.png,cra,13,1,"CTX orbital image of Mars showing a single impact crater with a raised rim and bowl-shaped floor, grayscale",1300149,5.0,13,cra,0.9366,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0000.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200000,5.0,11,fsg,0.0269,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0001.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200001,5.0,11,fsg,0.0025,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0002.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200002,5.0,6,fss,0.0061,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0003.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200003,5.0,10,fsf,0.0031,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0004.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200004,5.0,11,fsg,0.0039,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0005.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200005,5.0,7,rid,0.0064,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0006.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200006,5.0,11,fsg,0.0087,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0007.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200007,5.0,11,fsg,0.0239,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0008.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200008,5.0,5,smo,0.0037,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0009.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200009,5.0,6,fss,0.0087,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0010.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200010,5.0,9,sfe,0.003,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0011.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200011,5.0,7,rid,0.246,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0012.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200012,6.0,7,rid,0.0776,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0013.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200013,6.0,7,rid,0.0044,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0014.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200014,6.0,11,fsg,0.0072,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0015.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200015,6.0,11,fsg,0.0071,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0016.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200016,6.0,11,fsg,0.0041,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0017.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200017,6.0,11,fsg,0.0126,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0018.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200018,6.0,2,cli,0.6219,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0019.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200019,6.0,11,fsg,0.0363,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0020.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200020,6.0,6,fss,0.1767,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0021.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200021,6.0,4,tex,0.0058,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0022.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200022,6.0,6,fss,0.006,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0023.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200023,6.0,6,fss,0.0243,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0024.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200024,7.0,11,fsg,0.0148,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0025.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200025,7.0,6,fss,0.0049,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0026.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200026,7.0,3,aec,0.0041,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0027.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200027,7.0,6,fss,0.0048,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0028.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200028,7.0,11,fsg,0.0049,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0029.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200029,7.0,11,fsg,0.0074,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0030.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200030,7.0,6,fss,0.006,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0031.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200031,7.0,11,fsg,0.0053,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0032.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200032,7.0,9,sfe,0.0079,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0033.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200033,7.0,4,tex,0.0024,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0034.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200034,7.0,2,cli,0.1938,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0035.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200035,7.0,9,sfe,0.0127,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0036.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200036,5.0,6,fss,0.0047,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0037.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200037,5.0,11,fsg,0.0046,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0038.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200038,5.0,11,fsg,0.0037,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0039.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200039,5.0,4,tex,0.0145,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0040.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200040,5.0,11,fsg,0.007,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0041.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200041,5.0,6,fss,0.0107,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0042.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200042,5.0,6,fss,0.0055,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0043.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200043,5.0,11,fsg,0.0029,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0044.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200044,5.0,4,tex,0.0113,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0045.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200045,5.0,12,sfx,0.0068,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0046.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200046,5.0,2,cli,0.4373,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0047.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200047,5.0,6,fss,0.0045,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0048.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200048,6.0,8,fse,0.0026,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0049.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200049,6.0,11,fsg,0.0029,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0050.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200050,6.0,6,fss,0.0054,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0051.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200051,6.0,11,fsg,0.0065,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0052.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200052,6.0,11,fsg,0.0058,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0053.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200053,6.0,10,fsf,0.0581,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0054.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200054,6.0,6,fss,0.0074,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0055.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200055,6.0,2,cli,0.5042,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0056.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200056,6.0,11,fsg,0.0043,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0057.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200057,6.0,7,rid,0.1141,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0058.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200058,6.0,6,fss,0.0295,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0059.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200059,6.0,4,tex,0.0302,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0060.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200060,7.0,7,rid,0.0153,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0061.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200061,7.0,6,fss,0.0179,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0062.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200062,7.0,11,fsg,0.0051,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0063.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200063,7.0,6,fss,0.0055,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0064.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200064,7.0,7,rid,0.0106,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0065.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200065,7.0,8,fse,0.013,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0066.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200066,7.0,11,fsg,0.0073,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0067.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200067,7.0,11,fsg,0.0077,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0068.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200068,7.0,9,sfe,0.0026,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0069.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200069,7.0,10,fsf,0.0096,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0070.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200070,7.0,11,fsg,0.0036,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0071.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200071,7.0,11,fsg,0.0079,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0072.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200072,5.0,11,fsg,0.0079,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0073.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200073,5.0,8,fse,0.0065,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0074.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200074,5.0,11,fsg,0.0308,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0075.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200075,5.0,11,fsg,0.0052,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0076.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200076,5.0,11,fsg,0.0065,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0077.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200077,5.0,2,cli,0.3661,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0078.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200078,5.0,11,fsg,0.0064,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0079.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200079,5.0,11,fsg,0.0033,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0080.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200080,5.0,6,fss,0.0324,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0081.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200081,5.0,4,tex,0.0025,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0082.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200082,5.0,6,fss,0.0047,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0083.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200083,5.0,5,smo,0.0067,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0084.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200084,6.0,2,cli,0.806,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0085.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200085,6.0,11,fsg,0.005,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0086.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200086,6.0,11,fsg,0.006,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0087.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200087,6.0,11,fsg,0.0155,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0088.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200088,6.0,10,fsf,0.0063,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0089.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200089,6.0,11,fsg,0.0367,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0090.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200090,6.0,11,fsg,0.0082,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0091.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200091,6.0,11,fsg,0.0052,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0092.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200092,6.0,2,cli,0.6052,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0093.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200093,6.0,4,tex,0.0025,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0094.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200094,6.0,4,tex,0.0074,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0095.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200095,6.0,10,fsf,0.0205,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0096.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200096,7.0,11,fsg,0.0045,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0097.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200097,7.0,8,fse,0.1064,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0098.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200098,7.0,6,fss,0.0214,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0099.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200099,7.0,11,fsg,0.0072,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0100.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200100,7.0,8,fse,0.1008,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0101.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200101,7.0,11,fsg,0.0042,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0102.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200102,7.0,7,rid,0.3755,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0103.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200103,7.0,11,fsg,0.0145,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0104.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200104,7.0,4,tex,0.0613,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0105.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200105,7.0,5,smo,0.0554,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0106.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200106,7.0,9,sfe,0.0032,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0107.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200107,7.0,6,fss,0.0068,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0108.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200108,5.0,11,fsg,0.0054,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0109.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200109,5.0,11,fsg,0.0039,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0110.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200110,5.0,11,fsg,0.0296,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0111.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200111,5.0,11,fsg,0.0301,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0112.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200112,5.0,8,fse,0.0128,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0113.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200113,5.0,11,fsg,0.0043,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0114.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200114,5.0,6,fss,0.0069,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0115.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200115,5.0,11,fsg,0.0041,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0116.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200116,5.0,6,fss,0.03,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0117.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200117,5.0,9,sfe,0.0071,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0118.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200118,5.0,0,ael,0.0061,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0119.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200119,5.0,3,aec,0.0121,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0120.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200120,6.0,11,fsg,0.005,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0121.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200121,6.0,3,aec,0.0181,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0122.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200122,6.0,11,fsg,0.0041,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0123.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200123,6.0,11,fsg,0.0027,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0124.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200124,6.0,0,ael,0.004,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0125.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200125,6.0,11,fsg,0.012,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0126.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200126,6.0,11,fsg,0.005,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0127.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200127,6.0,2,cli,0.7348,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0128.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200128,6.0,6,fss,0.0087,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0129.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200129,6.0,11,fsg,0.017,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0130.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200130,6.0,9,sfe,0.0114,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0131.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200131,6.0,0,ael,0.0062,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0132.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200132,7.0,6,fss,0.0154,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0133.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200133,7.0,6,fss,0.0123,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0134.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200134,7.0,6,fss,0.007,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0135.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200135,7.0,11,fsg,0.0064,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0136.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200136,7.0,11,fsg,0.0046,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0137.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200137,7.0,6,fss,0.0148,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0138.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200138,7.0,2,cli,0.3738,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0139.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200139,7.0,11,fsg,0.0151,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0140.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200140,7.0,12,sfx,0.0097,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0141.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200141,7.0,6,fss,0.0091,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0142.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200142,7.0,10,fsf,0.1332,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0143.png,cli,2,2,"grayscale CTX orbital image of the Martian surface, cliff",200143,7.0,0,ael,0.0087,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0144.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200144,5.0,11,fsg,0.0973,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0145.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200145,5.0,11,fsg,0.0125,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0146.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200146,5.0,11,fsg,0.0051,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0147.png,cli,2,0,"CTX orbital image of Mars, cliff, a steep cliff scarp with a sharp edge and shadowed face, grayscale",200147,5.0,11,fsg,0.0054,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0148.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200148,5.0,11,fsg,0.021,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/cli/cli_0149.png,cli,2,1,"CTX orbital image of Mars showing a steep cliff scarp with a sharp edge and shadowed face, grayscale",200149,5.0,10,fsf,0.0048,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0000.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700000,5.0,6,fss,0.0438,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0001.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700001,5.0,6,fss,0.034,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0002.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700002,5.0,7,rid,0.5594,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0003.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700003,5.0,7,rid,0.8114,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0004.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700004,5.0,3,aec,0.1873,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0005.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700005,5.0,10,fsf,0.0159,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0006.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700006,5.0,12,sfx,0.007,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0007.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700007,5.0,7,rid,0.7667,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0008.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700008,5.0,1,rou,0.0086,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0009.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700009,5.0,5,smo,0.0039,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0010.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700010,5.0,11,fsg,0.0099,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0011.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700011,5.0,5,smo,0.0049,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0012.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700012,6.0,6,fss,0.0034,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0013.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700013,6.0,6,fss,0.0094,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0014.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700014,6.0,3,aec,0.1394,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0015.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700015,6.0,6,fss,0.0547,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0016.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700016,6.0,6,fss,0.0108,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0017.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700017,6.0,3,aec,0.0335,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0018.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700018,6.0,7,rid,0.8896,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0019.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700019,6.0,7,rid,0.7865,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0020.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700020,6.0,5,smo,0.0051,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0021.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700021,6.0,11,fsg,0.0045,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0022.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700022,6.0,3,aec,0.0113,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0023.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700023,6.0,5,smo,0.0062,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0024.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700024,7.0,9,sfe,0.0338,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0025.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700025,7.0,3,aec,0.0436,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0026.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700026,7.0,10,fsf,0.0162,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0027.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700027,7.0,3,aec,0.0076,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0028.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700028,7.0,6,fss,0.0201,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0029.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700029,7.0,7,rid,0.9198,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0030.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700030,7.0,3,aec,0.0097,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0031.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700031,7.0,10,fsf,0.0311,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0032.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700032,7.0,5,smo,0.0045,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0033.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700033,7.0,5,smo,0.0044,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0034.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700034,7.0,1,rou,0.0176,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0035.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700035,7.0,5,smo,0.0089,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0036.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700036,5.0,9,sfe,0.0129,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0037.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700037,5.0,11,fsg,0.0039,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0038.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700038,5.0,11,fsg,0.0055,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0039.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700039,5.0,11,fsg,0.0047,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0040.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700040,5.0,10,fsf,0.0509,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0041.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700041,5.0,6,fss,0.0189,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0042.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700042,5.0,6,fss,0.0036,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0043.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700043,5.0,6,fss,0.0037,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0044.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700044,5.0,1,rou,0.0094,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0045.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700045,5.0,5,smo,0.0041,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0046.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700046,5.0,5,smo,0.0062,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0047.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700047,5.0,11,fsg,0.0337,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0048.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700048,6.0,3,aec,0.0483,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0049.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700049,6.0,7,rid,0.6881,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0050.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700050,6.0,6,fss,0.0186,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0051.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700051,6.0,6,fss,0.0086,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0052.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700052,6.0,10,fsf,0.0123,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0053.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700053,6.0,11,fsg,0.0045,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0054.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700054,6.0,3,aec,0.3009,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0055.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700055,6.0,7,rid,0.9406,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0056.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700056,6.0,9,sfe,0.0067,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0057.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700057,6.0,12,sfx,0.0181,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0058.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700058,6.0,5,smo,0.0044,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0059.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700059,6.0,5,smo,0.01,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0060.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700060,7.0,11,fsg,0.0146,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0061.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700061,7.0,11,fsg,0.0193,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0062.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700062,7.0,0,ael,0.0155,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0063.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700063,7.0,11,fsg,0.0056,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0064.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700064,7.0,5,smo,0.0034,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0065.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700065,7.0,11,fsg,0.0065,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0066.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700066,7.0,6,fss,0.0261,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0067.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700067,7.0,4,tex,0.2038,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0068.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700068,7.0,1,rou,0.0093,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0069.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700069,7.0,9,sfe,0.0072,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0070.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700070,7.0,1,rou,0.0037,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0071.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700071,7.0,5,smo,0.0037,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0072.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700072,5.0,11,fsg,0.0109,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0073.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700073,5.0,3,aec,0.0113,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0074.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700074,5.0,2,cli,0.0364,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0075.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700075,5.0,8,fse,0.0953,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0076.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700076,5.0,9,sfe,0.0209,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0077.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700077,5.0,10,fsf,0.1749,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0078.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700078,5.0,5,smo,0.0113,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0079.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700079,5.0,4,tex,0.0935,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0080.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700080,5.0,1,rou,0.0114,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0081.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700081,5.0,5,smo,0.0129,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0082.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700082,5.0,5,smo,0.0036,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0083.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700083,5.0,5,smo,0.0075,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0084.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700084,6.0,11,fsg,0.0046,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0085.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700085,6.0,9,sfe,0.0302,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0086.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700086,6.0,5,smo,0.0372,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0087.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700087,6.0,4,tex,0.0372,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0088.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700088,6.0,11,fsg,0.0177,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0089.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700089,6.0,7,rid,0.9329,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0090.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700090,6.0,11,fsg,0.0272,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0091.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700091,6.0,2,cli,0.1196,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0092.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700092,6.0,2,cli,0.0065,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0093.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700093,6.0,5,smo,0.004,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0094.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700094,6.0,1,rou,0.0076,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0095.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700095,6.0,5,smo,0.0151,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0096.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700096,7.0,7,rid,0.6371,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0097.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700097,7.0,6,fss,0.0074,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0098.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700098,7.0,3,aec,0.0404,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0099.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700099,7.0,11,fsg,0.1513,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0100.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700100,7.0,9,sfe,0.0114,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0101.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700101,7.0,6,fss,0.0065,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0102.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700102,7.0,11,fsg,0.0313,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0103.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700103,7.0,6,fss,0.0046,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0104.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700104,7.0,0,ael,0.019,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0105.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700105,7.0,9,sfe,0.0179,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0106.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700106,7.0,4,tex,0.0024,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0107.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700107,7.0,5,smo,0.0073,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0108.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700108,5.0,10,fsf,0.1805,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0109.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700109,5.0,7,rid,0.8761,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0110.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700110,5.0,0,ael,0.0053,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0111.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700111,5.0,5,smo,0.0133,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0112.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700112,5.0,10,fsf,0.033,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0113.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700113,5.0,0,ael,0.0155,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0114.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700114,5.0,2,cli,0.289,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0115.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700115,5.0,7,rid,0.5253,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0116.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700116,5.0,1,rou,0.0032,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0117.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700117,5.0,5,smo,0.005,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0118.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700118,5.0,1,rou,0.0161,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0119.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700119,5.0,6,fss,0.0105,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0120.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700120,6.0,6,fss,0.0098,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0121.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700121,6.0,6,fss,0.0131,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0122.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700122,6.0,6,fss,0.0068,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0123.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700123,6.0,11,fsg,0.2437,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0124.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700124,6.0,3,aec,0.2663,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0125.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700125,6.0,7,rid,0.9411,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0126.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700126,6.0,6,fss,0.0048,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0127.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700127,6.0,3,aec,0.3352,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0128.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700128,6.0,1,rou,0.0126,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0129.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700129,6.0,1,rou,0.0051,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0130.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700130,6.0,5,smo,0.009,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0131.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700131,6.0,1,rou,0.0169,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0132.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700132,7.0,10,fsf,0.3226,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0133.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700133,7.0,6,fss,0.0077,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0134.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700134,7.0,8,fse,0.0116,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0135.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700135,7.0,7,rid,0.2546,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0136.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700136,7.0,4,tex,0.043,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0137.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700137,7.0,10,fsf,0.0535,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0138.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700138,7.0,3,aec,0.02,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0139.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700139,7.0,7,rid,0.9552,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0140.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700140,7.0,12,sfx,0.0071,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0141.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700141,7.0,12,sfx,0.0082,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0142.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700142,7.0,1,rou,0.0209,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0143.png,rid,7,2,"grayscale CTX orbital image of the Martian surface, ridge",700143,7.0,4,tex,0.0048,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0144.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700144,5.0,3,aec,0.0102,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0145.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700145,5.0,10,fsf,0.0018,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0146.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700146,5.0,6,fss,0.0128,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0147.png,rid,7,0,"CTX orbital image of Mars, ridge, a long narrow raised ridge, grayscale",700147,5.0,6,fss,0.0081,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0148.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700148,5.0,6,fss,0.0083,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rid/rid_0149.png,rid,7,1,"CTX orbital image of Mars showing a long narrow raised ridge, grayscale",700149,5.0,4,tex,0.0063,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0000.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",0,5.0,0,ael,0.895,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0001.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",1,5.0,0,ael,0.9242,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0002.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",2,5.0,0,ael,0.9038,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0003.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",3,5.0,11,fsg,0.0709,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0004.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",4,5.0,0,ael,0.93,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0005.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",5,5.0,11,fsg,0.0151,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0006.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",6,5.0,0,ael,0.907,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0007.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",7,5.0,3,aec,0.0339,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0008.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",8,5.0,0,ael,0.492,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0009.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",9,5.0,2,cli,0.0082,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0010.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",10,5.0,1,rou,0.0091,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0011.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",11,5.0,1,rou,0.2491,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0012.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",12,6.0,0,ael,0.9246,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0013.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",13,6.0,0,ael,0.9257,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0014.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",14,6.0,10,fsf,0.2596,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0015.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",15,6.0,0,ael,0.9071,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0016.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",16,6.0,0,ael,0.9287,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0017.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",17,6.0,0,ael,0.9158,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0018.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",18,6.0,3,aec,0.2432,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0019.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",19,6.0,0,ael,0.8624,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0020.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",20,6.0,5,smo,0.015,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0021.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",21,6.0,5,smo,0.0225,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0022.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",22,6.0,5,smo,0.0028,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0023.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",23,6.0,0,ael,0.57,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0024.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",24,7.0,0,ael,0.456,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0025.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",25,7.0,0,ael,0.8123,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0026.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",26,7.0,0,ael,0.8202,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0027.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",27,7.0,0,ael,0.9159,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0028.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",28,7.0,0,ael,0.8442,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0029.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",29,7.0,0,ael,0.9159,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0030.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",30,7.0,0,ael,0.9141,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0031.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",31,7.0,11,fsg,0.0639,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0032.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",32,7.0,12,sfx,0.0072,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0033.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",33,7.0,7,rid,0.0024,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0034.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",34,7.0,9,sfe,0.012,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0035.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",35,7.0,5,smo,0.0127,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0036.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",36,5.0,0,ael,0.9173,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0037.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",37,5.0,0,ael,0.9181,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0038.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",38,5.0,0,ael,0.822,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0039.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",39,5.0,0,ael,0.7543,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0040.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",40,5.0,0,ael,0.9186,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0041.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",41,5.0,3,aec,0.0084,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0042.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",42,5.0,11,fsg,0.0216,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0043.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",43,5.0,0,ael,0.9296,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0044.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",44,5.0,9,sfe,0.0094,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0045.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",45,5.0,5,smo,0.044,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0046.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",46,5.0,2,cli,0.007,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0047.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",47,5.0,0,ael,0.8914,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0048.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",48,6.0,0,ael,0.9194,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0049.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",49,6.0,0,ael,0.8762,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0050.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",50,6.0,12,sfx,0.194,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0051.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",51,6.0,0,ael,0.9335,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0052.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",52,6.0,5,smo,0.3348,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0053.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",53,6.0,0,ael,0.9149,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0054.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",54,6.0,0,ael,0.7999,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0055.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",55,6.0,0,ael,0.9107,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0056.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",56,6.0,4,tex,0.0138,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0057.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",57,6.0,0,ael,0.8255,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0058.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",58,6.0,4,tex,0.0058,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0059.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",59,6.0,12,sfx,0.0056,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0060.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",60,7.0,0,ael,0.5334,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0061.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",61,7.0,0,ael,0.9185,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0062.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",62,7.0,0,ael,0.9073,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0063.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",63,7.0,0,ael,0.9118,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0064.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",64,7.0,0,ael,0.9265,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0065.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",65,7.0,0,ael,0.9078,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0066.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",66,7.0,3,aec,0.0202,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0067.png,ael,0,1,"CTX orbital image of Mars showing straight parallel wind-blown ripples and dune ridges, grayscale",67,7.0,0,ael,0.8916,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0068.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",68,7.0,0,ael,0.554,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0069.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",69,7.0,0,ael,0.6637,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0070.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",70,7.0,12,sfx,0.0062,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0071.png,ael,0,2,"grayscale CTX orbital image of the Martian surface, aeolian straight",71,7.0,5,smo,0.0257,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0072.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",72,5.0,0,ael,0.733,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0073.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",73,5.0,5,smo,0.0055,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/ael/ael_0074.png,ael,0,0,"CTX orbital image of Mars, aeolian straight, straight parallel wind-blown ripples and dune ridges, grayscale",74,5.0,11,fsg,0.1516,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0000.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300000,5.0,3,aec,0.9239,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0001.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300001,5.0,3,aec,0.8966,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0002.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300002,5.0,3,aec,0.9193,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0003.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300003,5.0,0,ael,0.0905,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0004.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300004,5.0,10,fsf,0.0185,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0005.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300005,5.0,3,aec,0.931,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0006.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300006,5.0,0,ael,0.0096,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0007.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300007,5.0,3,aec,0.6795,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0008.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300008,5.0,4,tex,0.0048,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0009.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300009,5.0,13,cra,0.0038,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0010.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300010,5.0,12,sfx,0.0025,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0011.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300011,5.0,13,cra,0.016,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0012.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300012,6.0,0,ael,0.0035,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0013.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300013,6.0,3,aec,0.6275,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0014.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300014,6.0,3,aec,0.9257,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0015.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300015,6.0,3,aec,0.9209,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0016.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300016,6.0,3,aec,0.3805,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0017.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300017,6.0,0,ael,0.0235,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0018.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300018,6.0,0,ael,0.3281,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0019.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300019,6.0,0,ael,0.016,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0020.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300020,6.0,5,smo,0.0197,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0021.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300021,6.0,0,ael,0.0145,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0022.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300022,6.0,6,fss,0.0063,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0023.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300023,6.0,13,cra,0.3453,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0024.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300024,7.0,3,aec,0.8993,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0025.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300025,7.0,0,ael,0.0429,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0026.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300026,7.0,3,aec,0.5501,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0027.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300027,7.0,3,aec,0.4626,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0028.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300028,7.0,0,ael,0.057,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0029.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300029,7.0,10,fsf,0.058,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0030.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300030,7.0,3,aec,0.9226,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0031.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300031,7.0,3,aec,0.6225,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0032.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300032,7.0,13,cra,0.0094,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0033.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300033,7.0,6,fss,0.011,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0034.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300034,7.0,8,fse,0.0037,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0035.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300035,7.0,3,aec,0.9014,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0036.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300036,5.0,5,smo,0.0035,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0037.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300037,5.0,0,ael,0.0563,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0038.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300038,5.0,3,aec,0.7151,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0039.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300039,5.0,3,aec,0.4428,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0040.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300040,5.0,3,aec,0.7672,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0041.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300041,5.0,3,aec,0.9133,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0042.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300042,5.0,0,ael,0.007,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0043.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300043,5.0,2,cli,0.0431,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0044.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300044,5.0,3,aec,0.7519,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0045.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300045,5.0,2,cli,0.0178,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0046.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300046,5.0,9,sfe,0.0082,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0047.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300047,5.0,13,cra,0.0277,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0048.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300048,6.0,0,ael,0.0127,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0049.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300049,6.0,0,ael,0.035,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0050.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300050,6.0,3,aec,0.9096,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0051.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300051,6.0,3,aec,0.8715,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0052.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300052,6.0,3,aec,0.914,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0053.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300053,6.0,3,aec,0.8291,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0054.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300054,6.0,0,ael,0.0192,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0055.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300055,6.0,0,ael,0.0023,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0056.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300056,6.0,10,fsf,0.1039,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0057.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300057,6.0,11,fsg,0.0112,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0058.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300058,6.0,13,cra,0.0057,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0059.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300059,6.0,1,rou,0.0041,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0060.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300060,7.0,3,aec,0.899,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0061.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300061,7.0,3,aec,0.8207,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0062.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300062,7.0,0,ael,0.005,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0063.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300063,7.0,0,ael,0.0151,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0064.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300064,7.0,3,aec,0.9392,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0065.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300065,7.0,3,aec,0.3961,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0066.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300066,7.0,0,ael,0.0297,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0067.png,aec,3,1,"CTX orbital image of Mars showing curved crescent-shaped dunes with sinuous crests, grayscale",300067,7.0,0,ael,0.0059,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0068.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300068,7.0,9,sfe,0.0066,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0069.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300069,7.0,12,sfx,0.0142,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0070.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300070,7.0,6,fss,0.0063,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0071.png,aec,3,2,"grayscale CTX orbital image of the Martian surface, aeolian curved",300071,7.0,12,sfx,0.0111,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0072.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300072,5.0,3,aec,0.9001,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0073.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300073,5.0,3,aec,0.8925,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/aec/aec_0074.png,aec,3,0,"CTX orbital image of Mars, aeolian curved, curved crescent-shaped dunes with sinuous crests, grayscale",300074,5.0,0,ael,0.3557,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0000.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100000,5.0,5,smo,0.0234,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0001.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100001,5.0,12,sfx,0.0156,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0002.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100002,5.0,1,rou,0.6177,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0003.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100003,5.0,1,rou,0.5132,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0004.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100004,5.0,4,tex,0.0037,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0005.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100005,5.0,5,smo,0.0176,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0006.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100006,5.0,9,sfe,0.0356,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0007.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100007,5.0,9,sfe,0.0084,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0008.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100008,5.0,4,tex,0.0824,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0009.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100009,5.0,12,sfx,0.04,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0010.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100010,5.0,6,fss,0.016,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0011.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100011,5.0,5,smo,0.0619,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0012.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100012,6.0,1,rou,0.8171,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0013.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100013,6.0,12,sfx,0.0322,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0014.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100014,6.0,9,sfe,0.0105,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0015.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100015,6.0,5,smo,0.0086,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0016.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100016,6.0,4,tex,0.0173,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0017.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100017,6.0,6,fss,0.0086,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0018.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100018,6.0,4,tex,0.0272,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0019.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100019,6.0,4,tex,0.0036,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0020.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100020,6.0,12,sfx,0.0422,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0021.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100021,6.0,4,tex,0.0248,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0022.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100022,6.0,9,sfe,0.0058,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0023.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100023,6.0,9,sfe,0.0065,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0024.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100024,7.0,9,sfe,0.0109,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0025.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100025,7.0,0,ael,0.0605,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0026.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100026,7.0,5,smo,0.0064,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0027.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100027,7.0,9,sfe,0.0068,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0028.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100028,7.0,9,sfe,0.006,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0029.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100029,7.0,9,sfe,0.0083,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0030.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100030,7.0,11,fsg,0.0061,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0031.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100031,7.0,4,tex,0.0158,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0032.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100032,7.0,5,smo,0.015,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0033.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100033,7.0,1,rou,0.3777,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0034.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100034,7.0,4,tex,0.0133,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0035.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100035,7.0,9,sfe,0.039,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0036.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100036,5.0,0,ael,0.0895,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0037.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100037,5.0,1,rou,0.6059,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0038.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100038,5.0,4,tex,0.0899,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0039.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100039,5.0,4,tex,0.0244,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0040.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100040,5.0,12,sfx,0.0095,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0041.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100041,5.0,8,fse,0.0179,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0042.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100042,5.0,6,fss,0.0042,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0043.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100043,5.0,4,tex,0.0808,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0044.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100044,5.0,1,rou,0.769,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0045.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100045,5.0,1,rou,0.7106,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0046.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100046,5.0,4,tex,0.0174,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0047.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100047,5.0,1,rou,0.5095,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0048.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100048,6.0,12,sfx,0.0551,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0049.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100049,6.0,4,tex,0.0168,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0050.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100050,6.0,9,sfe,0.0251,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0051.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100051,6.0,5,smo,0.0104,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0052.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100052,6.0,5,smo,0.0044,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0053.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100053,6.0,4,tex,0.0304,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0054.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100054,6.0,4,tex,0.076,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0055.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100055,6.0,4,tex,0.012,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0056.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100056,6.0,5,smo,0.0172,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0057.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100057,6.0,9,sfe,0.092,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0058.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100058,6.0,6,fss,0.0081,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0059.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100059,6.0,5,smo,0.0044,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0060.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100060,7.0,10,fsf,0.0171,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0061.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100061,7.0,5,smo,0.0067,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0062.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100062,7.0,9,sfe,0.006,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0063.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100063,7.0,9,sfe,0.005,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0064.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100064,7.0,5,smo,0.0051,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0065.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100065,7.0,5,smo,0.0055,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0066.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100066,7.0,9,sfe,0.0064,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0067.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100067,7.0,8,fse,0.0462,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0068.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100068,7.0,5,smo,0.1032,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0069.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100069,7.0,5,smo,0.0038,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0070.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100070,7.0,5,smo,0.0089,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0071.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100071,7.0,9,sfe,0.003,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0072.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100072,5.0,4,tex,0.0167,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0073.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100073,5.0,4,tex,0.0079,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0074.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100074,5.0,9,sfe,0.0265,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0075.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100075,5.0,9,sfe,0.0049,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0076.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100076,5.0,5,smo,0.004,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0077.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100077,5.0,1,rou,0.6919,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0078.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100078,5.0,12,sfx,0.0087,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0079.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100079,5.0,9,sfe,0.0034,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0080.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100080,5.0,9,sfe,0.0281,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0081.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100081,5.0,5,smo,0.0125,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0082.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100082,5.0,5,smo,0.0265,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0083.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100083,5.0,1,rou,0.6767,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0084.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100084,6.0,5,smo,0.0175,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0085.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100085,6.0,9,sfe,0.139,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0086.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100086,6.0,9,sfe,0.0073,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0087.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100087,6.0,4,tex,0.2242,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0088.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100088,6.0,5,smo,0.0036,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0089.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100089,6.0,12,sfx,0.015,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0090.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100090,6.0,4,tex,0.1155,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0091.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100091,6.0,12,sfx,0.0381,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0092.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100092,6.0,3,aec,0.0076,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0093.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100093,6.0,5,smo,0.0135,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0094.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100094,6.0,5,smo,0.0041,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0095.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100095,6.0,5,smo,0.0036,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0096.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100096,7.0,5,smo,0.0127,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0097.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100097,7.0,9,sfe,0.0314,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0098.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100098,7.0,9,sfe,0.0075,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0099.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100099,7.0,12,sfx,0.0077,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0100.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100100,7.0,7,rid,0.0046,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0101.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100101,7.0,9,sfe,0.034,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0102.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100102,7.0,5,smo,0.0081,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0103.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100103,7.0,5,smo,0.007,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0104.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100104,7.0,9,sfe,0.0702,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0105.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100105,7.0,8,fse,0.0597,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0106.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100106,7.0,3,aec,0.0105,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0107.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100107,7.0,12,sfx,0.0364,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0108.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100108,5.0,5,smo,0.1437,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0109.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100109,5.0,4,tex,0.0557,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0110.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100110,5.0,5,smo,0.0129,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0111.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100111,5.0,1,rou,0.5642,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0112.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100112,5.0,0,ael,0.0492,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0113.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100113,5.0,4,tex,0.3728,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0114.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100114,5.0,4,tex,0.0309,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0115.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100115,5.0,4,tex,0.0131,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0116.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100116,5.0,5,smo,0.0067,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0117.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100117,5.0,1,rou,0.288,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0118.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100118,5.0,1,rou,0.5488,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0119.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100119,5.0,4,tex,0.3095,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0120.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100120,6.0,12,sfx,0.0051,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0121.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100121,6.0,12,sfx,0.0043,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0122.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100122,6.0,4,tex,0.0128,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0123.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100123,6.0,12,sfx,0.1373,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0124.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100124,6.0,6,fss,0.0041,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0125.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100125,6.0,9,sfe,0.0047,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0126.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100126,6.0,5,smo,0.0318,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0127.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100127,6.0,12,sfx,0.0044,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0128.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100128,6.0,9,sfe,0.0085,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0129.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100129,6.0,9,sfe,0.0045,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0130.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100130,6.0,4,tex,0.0129,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0131.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100131,6.0,4,tex,0.1826,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0132.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100132,7.0,9,sfe,0.0108,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0133.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100133,7.0,12,sfx,0.0129,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0134.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100134,7.0,1,rou,0.616,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0135.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100135,7.0,10,fsf,0.0104,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0136.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100136,7.0,2,cli,0.0085,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0137.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100137,7.0,5,smo,0.006,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0138.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100138,7.0,8,fse,0.0697,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0139.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100139,7.0,9,sfe,0.0058,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0140.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100140,7.0,1,rou,0.3366,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0141.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100141,7.0,9,sfe,0.0089,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0142.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100142,7.0,9,sfe,0.0066,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0143.png,rou,1,2,"grayscale CTX orbital image of the Martian surface, rough terrain",100143,7.0,4,tex,0.3972,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0144.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100144,5.0,9,sfe,0.0559,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0145.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100145,5.0,5,smo,0.0297,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0146.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100146,5.0,1,rou,0.8577,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0147.png,rou,1,0,"CTX orbital image of Mars, rough terrain, rough, rocky, hummocky terrain, grayscale",100147,5.0,1,rou,0.5104,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0148.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100148,5.0,4,tex,0.0057,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/rou/rou_0149.png,rou,1,1,"CTX orbital image of Mars showing rough, rocky, hummocky terrain, grayscale",100149,5.0,4,tex,0.0199,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0000.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500000,5.0,5,smo,0.9345,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0001.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500001,5.0,3,aec,0.0669,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0002.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500002,5.0,5,smo,0.9337,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0003.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500003,5.0,12,sfx,0.0141,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0004.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500004,5.0,0,ael,0.0127,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0005.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500005,5.0,5,smo,0.7244,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0006.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500006,5.0,7,rid,0.1885,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0007.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500007,5.0,3,aec,0.0061,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0008.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500008,5.0,4,tex,0.0062,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0009.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500009,5.0,5,smo,0.9411,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0010.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500010,5.0,5,smo,0.7688,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0011.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500011,5.0,9,sfe,0.0398,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0012.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500012,6.0,12,sfx,0.0516,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0013.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500013,6.0,5,smo,0.3734,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0014.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500014,6.0,5,smo,0.9452,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0015.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500015,6.0,5,smo,0.9279,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0016.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500016,6.0,5,smo,0.9472,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0017.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500017,6.0,5,smo,0.4495,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0018.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500018,6.0,5,smo,0.9443,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0019.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500019,6.0,5,smo,0.8976,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0020.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500020,6.0,0,ael,0.0197,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0021.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500021,6.0,5,smo,0.6847,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0022.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500022,6.0,4,tex,0.0038,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0023.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500023,6.0,5,smo,0.7293,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0024.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500024,7.0,5,smo,0.4595,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0025.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500025,7.0,4,tex,0.0056,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0026.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500026,7.0,9,sfe,0.0156,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0027.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500027,7.0,5,smo,0.9356,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0028.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500028,7.0,5,smo,0.9106,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0029.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500029,7.0,5,smo,0.6683,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0030.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500030,7.0,5,smo,0.4528,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0031.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500031,7.0,5,smo,0.67,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0032.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500032,7.0,6,fss,0.0046,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0033.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500033,7.0,6,fss,0.0164,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0034.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500034,7.0,1,rou,0.1741,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0035.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500035,7.0,9,sfe,0.0115,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0036.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500036,5.0,5,smo,0.9172,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0037.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500037,5.0,12,sfx,0.0052,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0038.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500038,5.0,5,smo,0.5929,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0039.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500039,5.0,5,smo,0.928,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0040.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500040,5.0,5,smo,0.8264,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0041.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500041,5.0,9,sfe,0.0411,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0042.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500042,5.0,5,smo,0.8898,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0043.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500043,5.0,5,smo,0.9407,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0044.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500044,5.0,12,sfx,0.2811,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0045.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500045,5.0,1,rou,0.0128,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0046.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500046,5.0,5,smo,0.9442,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0047.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500047,5.0,10,fsf,0.0087,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0048.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500048,6.0,8,fse,0.3166,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0049.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500049,6.0,12,sfx,0.1817,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0050.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500050,6.0,5,smo,0.9024,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0051.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500051,6.0,9,sfe,0.0037,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0052.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500052,6.0,3,aec,0.0042,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0053.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500053,6.0,5,smo,0.5734,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0054.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500054,6.0,9,sfe,0.004,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0055.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500055,6.0,5,smo,0.939,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0056.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500056,6.0,0,ael,0.0091,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0057.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500057,6.0,9,sfe,0.0066,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0058.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500058,6.0,12,sfx,0.1676,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0059.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500059,6.0,6,fss,0.0076,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0060.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500060,7.0,5,smo,0.919,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0061.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500061,7.0,9,sfe,0.0046,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0062.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500062,7.0,12,sfx,0.0917,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0063.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500063,7.0,5,smo,0.9426,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0064.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500064,7.0,5,smo,0.8306,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0065.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500065,7.0,5,smo,0.9433,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0066.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500066,7.0,5,smo,0.9242,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0067.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500067,7.0,9,sfe,0.3491,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0068.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500068,7.0,9,sfe,0.0136,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0069.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500069,7.0,9,sfe,0.0406,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0070.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500070,7.0,5,smo,0.4121,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0071.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500071,7.0,0,ael,0.1161,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0072.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500072,5.0,3,aec,0.0036,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0073.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500073,5.0,12,sfx,0.0068,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0074.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500074,5.0,1,rou,0.0524,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0075.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500075,5.0,5,smo,0.9303,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0076.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500076,5.0,6,fss,0.0062,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0077.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500077,5.0,4,tex,0.0055,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0078.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500078,5.0,5,smo,0.2866,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0079.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500079,5.0,3,aec,0.0111,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0080.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500080,5.0,5,smo,0.9282,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0081.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500081,5.0,9,sfe,0.2087,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0082.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500082,5.0,5,smo,0.3627,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0083.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500083,5.0,5,smo,0.9178,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0084.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500084,6.0,5,smo,0.4033,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0085.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500085,6.0,9,sfe,0.0078,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0086.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500086,6.0,12,sfx,0.0382,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0087.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500087,6.0,5,smo,0.3414,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0088.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500088,6.0,10,fsf,0.0083,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0089.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500089,6.0,9,sfe,0.0057,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0090.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500090,6.0,5,smo,0.4928,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0091.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500091,6.0,8,fse,0.1465,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0092.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500092,6.0,4,tex,0.0076,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0093.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500093,6.0,1,rou,0.1509,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0094.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500094,6.0,9,sfe,0.0179,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0095.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500095,6.0,0,ael,0.1571,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0096.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500096,7.0,5,smo,0.4792,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0097.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500097,7.0,12,sfx,0.0685,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0098.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500098,7.0,5,smo,0.9517,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0099.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500099,7.0,12,sfx,0.0072,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0100.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500100,7.0,5,smo,0.9446,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0101.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500101,7.0,5,smo,0.677,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0102.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500102,7.0,6,fss,0.0078,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0103.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500103,7.0,3,aec,0.0083,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0104.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500104,7.0,5,smo,0.7772,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0105.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500105,7.0,0,ael,0.0207,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0106.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500106,7.0,9,sfe,0.003,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0107.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500107,7.0,8,fse,0.0097,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0108.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500108,5.0,5,smo,0.9305,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0109.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500109,5.0,5,smo,0.9061,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0110.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500110,5.0,12,sfx,0.0329,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0111.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500111,5.0,5,smo,0.9307,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0112.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500112,5.0,9,sfe,0.004,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0113.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500113,5.0,5,smo,0.4338,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0114.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500114,5.0,9,sfe,0.0336,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0115.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500115,5.0,4,tex,0.0079,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0116.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500116,5.0,1,rou,0.1045,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0117.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500117,5.0,12,sfx,0.0121,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0118.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500118,5.0,5,smo,0.9255,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0119.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500119,5.0,9,sfe,0.0043,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0120.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500120,6.0,5,smo,0.8946,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0121.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500121,6.0,5,smo,0.7807,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0122.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500122,6.0,5,smo,0.9075,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0123.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500123,6.0,0,ael,0.1256,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0124.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500124,6.0,12,sfx,0.0238,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0125.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500125,6.0,5,smo,0.9352,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0126.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500126,6.0,5,smo,0.8333,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0127.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500127,6.0,3,aec,0.0155,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0128.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500128,6.0,4,tex,0.0039,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0129.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500129,6.0,3,aec,0.004,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0130.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500130,6.0,5,smo,0.8976,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0131.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500131,6.0,0,ael,0.0064,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0132.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500132,7.0,9,sfe,0.1067,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0133.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500133,7.0,5,smo,0.9513,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0134.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500134,7.0,9,sfe,0.0204,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0135.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500135,7.0,5,smo,0.8617,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0136.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500136,7.0,13,cra,0.0381,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0137.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500137,7.0,5,smo,0.9471,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0138.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500138,7.0,5,smo,0.6405,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0139.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500139,7.0,5,smo,0.685,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0140.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500140,7.0,3,aec,0.0212,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0141.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500141,7.0,0,ael,0.1792,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0142.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500142,7.0,9,sfe,0.0558,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0143.png,smo,5,2,"grayscale CTX orbital image of the Martian surface, smooth terrain",500143,7.0,5,smo,0.9262,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0144.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500144,5.0,5,smo,0.9102,True
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0145.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500145,5.0,3,aec,0.0193,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0146.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500146,5.0,5,smo,0.5495,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0147.png,smo,5,0,"CTX orbital image of Mars, smooth terrain, smooth, flat, nearly featureless plains, grayscale",500147,5.0,9,sfe,0.0116,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0148.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500148,5.0,13,cra,0.0097,False
+/content/drive/MyDrive/mars_data_engine/generated/raw/smo/smo_0149.png,smo,5,1,"CTX orbital image of Mars showing smooth, flat, nearly featureless plains, grayscale",500149,5.0,8,fse,0.0819,False
