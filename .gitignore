@@ -1,0 +1,9 @@
+data/raw/
+checkpoints/
+generated/
+*.safetensors
+*.ckpt
+*.pt
+*.parquet
+__pycache__/
+.ipynb_checkpoints/

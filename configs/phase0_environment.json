@@ -1,0 +1,26 @@
+{
+  "seed": 42,
+  "resolution": 512,
+  "sd_model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+  "mixed_precision": "fp16",
+  "lora_train_batch_size": 1,
+  "grad_accumulation": 4,
+  "use_8bit_adam": true,
+  "gen_batch_size": 4,
+  "classifier_batch_size": 64,
+  "run_name": "phase0_environment",
+  "timestamp": "2026-11-24T21:22:05",
+  "gpu": "Tesla T4",
+  "python": "3.13.16",
+  "versions": {
+    "torch": "2.14.1+cu130",
+    "torchvision": "0.29.1+cu130",
+    "diffusers": "0.43.0",
+    "peft": "0.22.0",
+    "accelerate": "1.16.0",
+    "transformers": "5.24.1",
+    "timm": "1.0.31",
+    "torchmetrics": "1.9.0",
+    "open_clip_torch": "4.2.2"
+  }
+}
