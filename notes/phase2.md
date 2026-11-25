@@ -1,5 +1,5 @@
 ## Phase 2 - Baseline classifier (real only)
-- Model: convnext_tiny.fb_in22k_ft_in1k (ImageNet-22k pretrained), 15 classes, input 200 px grayscale -> 224 px, 3 channels.
+- Model: convnext_tiny.fb_in22k_ft_in1k (pretrained on ImageNet-22k, fine-tuned on ImageNet-1k), 15 classes, input 200 px grayscale -> 224 px, 3 channels.
 - Training: 1200 steps, batch 64, AdamW lr 0.0002, wd 0.05, cosine schedule, label smoothing 0.1, fp16. Augment: h/v flips, random crop 75-100%, brightness/contrast jitter.
 - Selected on geo VAL macro-F1 (best step 1050); training time 435 s on a T4.
 - **Geo-val accuracy 0.812, macro-F1 0.804.** Test set not used (scored once in Phase 6).

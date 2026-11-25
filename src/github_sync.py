@@ -51,6 +51,10 @@ def collect(root: Path):
     add(NOTEBOOK, "notebooks/Mars_Data_Engine.ipynb")
     return files
 
+def _results(root):
+    p = root / "results" / "RESULTS_SUMMARY.md"
+    return p.read_text() if p.exists() else ""
+
 def readme(root: Path):
     done = lambda k: (root / (".done_" + k)).exists()
     rows = "\n".join(f"| {i} | {d} | {'done' if done(k) else 'to do'} |" for i, (k, d) in enumerate(PHASES))
@@ -70,6 +74,7 @@ pairwise metrics only, no downstream test) and fixes its main weaknesses.
 
 Full, auto-generated notes and numbers: [notes/PROJECT_NOTES.md](notes/PROJECT_NOTES.md)
 
+{_results(root)}
 ## Key decisions so far
 - **Data:** DoMars16k from Mars-Bench (Hugging Face Mirali33/mb-domars16k): 16,150 CTX tiles (~6 m/px), 15 classes.
 - **Leakage found:** every CTX image in the official test split also has tiles in train. We use a
