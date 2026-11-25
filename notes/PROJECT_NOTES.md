@@ -226,6 +226,13 @@ Paired differences (+S minus real-only, same seed and real subset):
 (Rule: a change counts only if it exceeds 0.005 F1 and 2 standard errors across the paired seeds.)
 Runs completed: 11/12. Not yet run (Colab free GPU limit): R10+S_seed2 - so the 10% comparison uses 2 paired seeds.
 
+**Interpretation (important).** With full data the paired gain is similar on classes that received synthetic images (+0.012 ± 0.015)
+and on classes that did not (+0.011 ± 0.009). The improvement is therefore probably a general regularization effect of
+extra, more varied training batches - not evidence that the generator taught the classifier anything specific about
+craters, dunes or plains. With 10% real data the effect is within noise. **Control experiment needed before claiming
+a benefit:** add the same number of (a) extra augmented real tiles and (b) synthetic images with shuffled labels; if
+those give the same gain, the synthetic content itself is not what helps.
+
 ### What worked
 - Fine-tuning with LoRA on real orbital tiles, plus guidance > 0, produces class-conditional images; guidance 0 (old project) ignores the prompt (results/phase3_guidance_sweep.png).
 - Classifier filtering removes off-class images and gives per-class keep rates that show which classes the generator handles.
